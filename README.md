@@ -1,2 +1,2 @@
-## story
+# story
 My very own masterpiece
